@@ -1,0 +1,46 @@
+.first.theme1 {
+  background: linear-gradient(
+    90deg,
+    rgba(148, 7, 133, 1) 0%,
+    rgba(0, 42, 51, 1) 100%
+  );
+}
+
+.first.theme2 {
+  background: linear-gradient(90deg, #a43931 0%, #1d4350 100%);
+}
+
+.first.theme3 {
+  background: linear-gradient(90deg, #5b8c5a 0%, #552244 100%);
+}
+
+.title {
+  font-size: 60px;
+  font-family: "Alata", sans-serif;
+}
+
+.subtitle {
+  font-size: 28px;
+}
+
+.social-icons-wrapper {
+  display: flex;
+  padding-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  padding: 0px 10px 0px 10px;
+}
+
+.social-icon,
+.social-container {
+  width: 80px !important;
+  height: 80px !important;
+}
+
+.element {
+  position: absolute;
+  top: 0px;
+}
+

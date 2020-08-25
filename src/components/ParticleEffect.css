@@ -1,0 +1,7 @@
+#tsparticles{
+    max-height: 100vh !important;
+}
+
+canvas[class^='tsparticles']{
+    max-height: 100vh !important;
+}

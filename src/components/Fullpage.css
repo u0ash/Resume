@@ -1,0 +1,21 @@
+.fullpage {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.particles-container {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+
+.content-container {
+  text-align: center;
+  z-index: 2;
+}

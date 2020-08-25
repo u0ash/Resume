@@ -1,0 +1,30 @@
+.third.theme1 {
+  background: linear-gradient(90deg, #2d4059 0%, #ea5455 100%);
+}
+
+.third.theme2 {
+  background: linear-gradient(90deg, #6441a5 0%, #2a0845 100%);
+}
+
+.third.theme3 {
+  background: linear-gradient(90deg, #948e99 0%, #2e1437 100%);
+}
+
+.card-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  width: 80vw;
+}
+
+.skill-title {
+  font-size: 54px;
+  font-family: "Alata", sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.element {
+  position: absolute;
+  top: 0px;
+}

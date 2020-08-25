@@ -1,0 +1,96 @@
+{
+  "title": "Hello, I'm Joe",
+  "subtitle": "Perfectionist | Jr Front-end Developer |  Artist",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/u0ash/",
+    "soundcloud": "https://soundcloud.com/u0ash",
+    "github": "https://github.com/u0ash",
+    "pinterest": "https://www.pinterest.com/u0ash/boards/",
+    "instagram": "https://www.instagram.com/u0_ashjaee/"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Hi again i'm Joe. "
+        },
+        {
+          "type": "p",
+          "content": "I'm eager to learn and Self development has high value in my opinion. I'm diciplined and commited to what i'm doing."
+        },
+        {
+          "type": "p",
+          "content": " Actually i have a thing for artistic stuff and also i love programming so i decided to pursuit both by becoming a front-end developer :) "
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.svg",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/javascript1.svg",
+            "title": "JS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html5.svg",
+            "title": "Html"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.svg",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/photoshop.svg",
+            "title": "Photoshop"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/csharp.svg",
+            "title": "C#"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "images/down-arrow.svg",
+    "up": "images/up-arrow.svg",
+    "changeTheme": "images/change-theme.svg"
+  },
+  "themes" : [
+    {
+      "Name" : "theme1",
+      "particleColor" : "#FFF"
+    },
+    {
+      "Name" : "theme2",
+      "particleColor" : "#000"
+    },
+    {
+      "Name" : "theme3",
+      "particleColor" : "#cfd186"
+    }
+  ]
+}

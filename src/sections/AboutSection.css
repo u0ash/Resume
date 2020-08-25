@@ -1,0 +1,44 @@
+.second.theme1 {
+  background: linear-gradient(
+    97deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+}
+.second.theme2 {
+  background: linear-gradient(97deg, #2196f3 0%, #f44336 100%);
+}
+.second.theme3 {
+  background: linear-gradient(97deg, #000000 0%, #434343 100%);
+}
+
+.about-title {
+  font-size: 58px;
+  font-family: "Alata", sans-serif;
+}
+
+.about-content {
+  width: 80%;
+  font-size: 36px;
+  text-align: left;
+  font-family: "Open Sans Condensed", sans-serif;
+  margin: auto;
+}
+
+.about-content::first-letter {
+  float: left;
+  font-size: 100px;
+  line-height: 0.65;
+  margin: 0.1em 0.1em 0.2em 0;
+}
+
+.first-letter {
+  initial-letter: 3;
+  color: red;
+  font-size: 30px;
+}
+
+.element {
+  position: absolute;
+  top: 0px;
+}

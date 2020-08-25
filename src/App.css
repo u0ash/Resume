@@ -1,5 +1,7 @@
-.App {
-  text-align: center;
+html,body{
+  height: 100%;
+  margin : 0;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .App-logo {
@@ -35,4 +37,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/******     Themes     ******/
+
+.theme1 {
+  color:black;
+}
+
+.theme2 {
+  color:White;
+}
+
+.theme3 {
+  color:#bae5e5;
 }

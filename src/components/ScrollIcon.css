@@ -1,0 +1,12 @@
+.icon-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.down-icon{
+    width:40px;
+    position : absolute;
+    bottom: 0px;
+    cursor: pointer;
+}
+
